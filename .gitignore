@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Herramientas de testing/cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs/Editores
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+
